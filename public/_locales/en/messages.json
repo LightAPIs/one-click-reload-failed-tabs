@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "One-click reload failed tabs"
+  },
+  "extensionDescription": {
+    "message": "One-click reload of all failed tabs."
+  }
+}
